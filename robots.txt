@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sibptal.github.io/sitemap/sitemap.txt
